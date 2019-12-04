@@ -1,0 +1,71 @@
+body{
+	width: 100%;
+	background-image: url("images/tweed.png");
+	font-family: "Calibri";
+}
+
+
+#bodi
+{
+	width: 900px;
+	margin: auto;
+}
+
+
+#judul{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 35px;
+	color: #FFFFFF;
+}
+
+p 
+{	width: 80%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 20px;
+}
+
+p a
+{
+	display: inline;
+	text-align: justify;
+}
+
+#g1{
+	float: right;
+	width: 70px;
+	padding: 10px 10px 10px 10px;
+}
+
+#g2 {
+	float: left;
+	width: 70px;
+	padding: 10px 10px 10px 10px;
+}
+
+
+#p1
+{
+	float: right;
+	background: #007EA7;
+}
+
+#p2
+{
+	float: left;
+	background: #439775;
+}
+
+#p3
+{
+	float: right;
+	background: #D6D3F0;
+}
+
+#p4
+{
+	float: left;
+	background: #306BAC;
+}
+
